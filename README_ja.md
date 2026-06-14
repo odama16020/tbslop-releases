@@ -1,6 +1,6 @@
 # tbslop 説明書
 
-> 📥 **ゲームのダウンロードは、ページ右側の「Releases」からどうぞ。** 最新版の Linux / Windows バイナリを配布しています。
+> 📥 **ゲームのダウンロードは [Releases](https://github.com/odama16020/tbslop-releases/releases) から。** Linux / Windows ビルドがあります。
 
 tbslop はテキストベースインターフェースのミニマルなターンベース戦術ゲームです。
 味方ユニットを配置し、移動、攻撃、スキル、再行動を組み合わせて、制限ターン以内にマップの目標達成を目指します。
