@@ -5,6 +5,8 @@
 # tbslop Manual
 
 > 📥 **Download from [Releases](https://github.com/odama16020/tbslop-releases/releases).** Linux / Windows builds available.
+>
+> 💾 Save data is created in the same folder as the executable (tbslop / tbslop.exe). Extracting to a different folder gives separate saves.
 
 tbslop is a minimal turn-based tactics game with a text-based interface.
 Deploy your units, then combine movement, attacks, skills, and extra actions to clear each map objective within the turn limit.
