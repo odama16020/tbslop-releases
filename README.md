@@ -4,6 +4,8 @@
 
 # tbslop Manual
 
+> 📥 **To download the game, use the "Releases" section on the right side of this page.** It provides the latest Linux / Windows builds.
+
 tbslop is a minimal turn-based tactics game with a text-based interface.
 Deploy your units, then combine movement, attacks, skills, and extra actions to clear each map objective within the turn limit.
 
